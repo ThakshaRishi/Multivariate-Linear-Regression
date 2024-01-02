@@ -42,10 +42,10 @@ print("Amount ",regr.predict([[3300,1300]]))
 ```
 ## Output:
 ![Screenshot 2024-01-02 224435](https://github.com/ThakshaRishi/Multivariate-Linear-Regression/assets/144870423/77a4bf4f-2917-4390-b7b5-803ee93c509e)
-![Screenshot 2024-01-02 224446](https://github.com/ThakshaRishi/Multivariate-Linear-Regression/assets/144870423/7768129b-9582-4252-86d9-9bf90f4bcc30)
 
 
 ### Insert your output
+![Screenshot 2024-01-02 224446](https://github.com/ThakshaRishi/Multivariate-Linear-Regression/assets/144870423/c8043c3b-1807-4b67-afd7-34c5fba70530)
 
 <br>
 
